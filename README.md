@@ -1,2 +1,1 @@
-# LINE-LIFF
-base on LINE 
+# liff v2
